@@ -11,7 +11,7 @@ I am a computational biologist/bioinformatican working on genomics and bioinform
  
 <p>
 
-My research mainly focuses on genome assembly, genetic variations and the pop-genome
+My research mainly focuses on genome assembly, genetic variations and pop-gen
 
 <p>
 

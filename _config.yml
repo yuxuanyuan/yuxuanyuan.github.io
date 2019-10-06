@@ -64,7 +64,7 @@ blog_button:
 nav:
     - {title: Archived, description: archive, url: '/archive'}   
     - {title: Tags, description: tags, url: '/tags'}      
-    - {title: About, description: about, url: '/about'}      
+    - {title: About me, description: about, url: '/about'}      
     
 
 # Pagination
