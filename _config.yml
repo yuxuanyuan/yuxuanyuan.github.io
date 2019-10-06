@@ -19,16 +19,16 @@ social:
     #weibo: 5366874726 
     github: yuxuanyuan
     # zhihu: panpanleopard
-    # juejin: xxx
-    # jianshu: 2ada30d8d0f7
-    # twitter: Yuxuan_Yuan 
+    wechat: yyx8671
+    jianshu: 生信人生
+    twitter: Yuxuan_Yuan 
     mail: yuxuan.yuan@outlook.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 14544d62b6dc34173f6cf4c9d900f45b 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
