@@ -3,6 +3,10 @@ layout: page
 title: About me 
 ---
 
+I'm Yuxuan Yuan and my English name is Andy
+
+<p>
+
 I am a computational biologist/bioinformatican working on genomics and bioinformatics
  
 <p>
@@ -10,6 +14,9 @@ I am a computational biologist/bioinformatican working on genomics and bioinform
 My research mainly focuses on genome assembly, genetic variations and the pop-genome
 
 <p>
+
+The species that I have been working on are canola, wheat and soybean
+
 
 <h3> Education Background </h3>
 
@@ -112,7 +119,7 @@ My CV is at <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/C
 
 <p>
 
-Please contact me if you have any question regarding to me or my page
+Please contact me if you have any question regarding me or my page
 
 <p> 
 
