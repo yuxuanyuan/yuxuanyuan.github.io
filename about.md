@@ -1,37 +1,37 @@
 ---
 layout: page
-title: 关于我 
+title: About me 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+I am an Bioinformatican working on genomics and bioinformatics. 
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
+I got my PhD degree at the University of Western Australia
 <p>
-了解一些 前端 基本概念和 Python 的简单用法。
-
-<p>
-
-<h3> 我们的博客 </h3>  
+My master's degree was obtained at the University of Queensland
 
 <p>
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+<h3> My profile </h3>  
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+After my graduation from UWA, I moved to the Chinese University of Hong Kong to be a Postdoc fellow.
 
 <p>
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+My research mainly focuses on genome assembly, genetic variations and the pop-gen.
+
+<p>
+
+My publication record is at
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+Google Scholar <a target="_blank" href='https://scholar.google.com.au/citations?user=2oLXfwoAAAAJ&hl=en'>Github</a> 
 
 <p> 
+
+Please contact me if you have any question regarding to me or my page
 
 <p> 
 
