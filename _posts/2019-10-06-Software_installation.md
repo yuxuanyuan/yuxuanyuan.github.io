@@ -68,7 +68,7 @@ $ conda config --add channels bioconda
 * For Anaconda, users may download it from 'https://www.anaconda.com/download/'. 
 * For Miniconda, users may download it from 'https://conda.io/miniconda.html'
 
-.. Note:: there are two different anaconda/miniconda versions
+**Note**: there are two different anaconda/miniconda versions
 
 One is for ``python2`` and the other one is for ``python3``.
 
@@ -78,7 +78,7 @@ Currently, conda is waay slow in package installation. We may using [mamba](http
  
 Docker is another tool to help install tools (needs root permission). The guide for installation on different systems is at [here](https://docs.docker.com/install/). You may check and install it. 
 
-.. Note:: give a group permission to users
+**Note**: give a group permission to users
 
 
 ```bash
