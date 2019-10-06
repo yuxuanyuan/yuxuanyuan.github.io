@@ -9,6 +9,8 @@ I am a computational biologist/bioinformatican working on genomics and bioinform
 
 My research mainly focuses on genome assembly, genetic variations and the pop-genome
 
+<p>
+
 <h3> Education Background </h3>
 
 <p>
@@ -17,23 +19,23 @@ My research mainly focuses on genome assembly, genetic variations and the pop-ge
 
 <p>
 
-2015 - 2019,  PhD, the University of Western Australia, Perth, Australia
+2015 - 2019,    PhD, the University of Western Australia, Perth, Australia
 
 <p>
 
-2012 - 2014, Master, the University of Queensland, Brisbane, Australia
+2012 - 2014,    Master, the University of Queensland, Brisbane, Australia
 
 <p>
 
-2007 - 2011, Bachelor, Zhejiang Chinese Medical University, Hangzhou, China
+2007 - 2011,    Bachelor, Zhejiang Chinese Medical University, Hangzhou, China
 
 <p>
 
 <h3> Publications </h3>  
 
 <p>
-# **Yuan Y**, Scheben A, Batley J and Edwards D. (2019) Using genomics to adapt crops to climate change. In: Sarkar A., Sensarma S., vanLoon G. (eds) Sustainable Solutions for Food Security. Springer, Cham, doi:10.1007/978-3-319-77878-5_5
-
+1.  **Yuan Y**, Scheben A, Batley J and Edwards D. (2019) Using genomics to adapt crops to climate change. In: Sarkar A., Sensarma S., vanLoon G. (eds) Sustainable Solutions for Food Security. Springer, Cham, doi:10.1007/978-3-319-77878-5_5
+2. **Yuan Y**, Scheben A, Chan CKK and Edwards D. (2017) Databases for wheat genomics and crop improvement. Wheat Biotechnology: Methods and Protocols, Methods in Molecular Biology, vol. 1679, doi: 10.1007/978-1-4939-7337-8_18, Springer      
 <p>
 
 My research mainly focuses on genome assembly, genetic variations and the pop-gen.
