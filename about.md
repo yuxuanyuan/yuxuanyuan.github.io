@@ -34,8 +34,10 @@ My research mainly focuses on genome assembly, genetic variations and the pop-ge
 <h3> Publications </h3>  
 
 <p>
-1.  **Yuan Y**, Scheben A, Batley J and Edwards D. (2019) Using genomics to adapt crops to climate change. In: Sarkar A., Sensarma S., vanLoon G. (eds) Sustainable Solutions for Food Security. Springer, Cham, doi:10.1007/978-3-319-77878-5_5
-2. **Yuan Y**, Scheben A, Chan CKK and Edwards D. (2017) Databases for wheat genomics and crop improvement. Wheat Biotechnology: Methods and Protocols, Methods in Molecular Biology, vol. 1679, doi: 10.1007/978-1-4939-7337-8_18, Springer      
+1.  ** Yuan Y **, Scheben A, Batley J and Edwards D. (2019) Using genomics to adapt crops to climate change. In: Sarkar A., Sensarma S., vanLoon G. (eds) Sustainable Solutions for Food Security. Springer, Cham, doi:10.1007/978-3-319-77878-5_5
+
+<p>
+2. ** Yuan Y **, Scheben A, Chan CKK and Edwards D. (2017) Databases for wheat genomics and crop improvement. Wheat Biotechnology: Methods and Protocols, Methods in Molecular Biology, vol. 1679, doi: 10.1007/978-1-4939-7337-8_18, Springer      
 <p>
 
 My research mainly focuses on genome assembly, genetic variations and the pop-gen.
