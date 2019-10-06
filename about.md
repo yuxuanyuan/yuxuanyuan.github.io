@@ -3,7 +3,7 @@ layout: page
 title: About me 
 ---
 
-I am an Bioinformatican working on genomics and bioinformatics. 
+I am a Bioinformatican working on genomics and bioinformatics. 
 <p>
 I got my PhD degree at the University of Western Australia
 <p>
@@ -11,7 +11,7 @@ My master's degree was obtained at the University of Queensland
 
 <p>
 
-<h3> My profile </h3>  
+<h3> My status </h3>  
 
 <p>
 
@@ -23,13 +23,13 @@ My research mainly focuses on genome assembly, genetic variations and the pop-ge
 
 <p>
 
-My publication record is at
+My publication record is at <a target="_blank" href='https://scholar.google.com.au/citations?user=2oLXfwoAAAAJ&hl=en'>GoogleScholar</a> 
 
 <p> 
 
-Google Scholar <a target="_blank" href='https://scholar.google.com.au/citations?user=2oLXfwoAAAAJ&hl=en'>Github</a> 
+My CV is at <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/CV_AY.pdf?dl=0'>here</a>
 
-<p> 
+<p>
 
 Please contact me if you have any question regarding to me or my page
 
