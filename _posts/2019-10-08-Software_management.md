@@ -2,7 +2,7 @@
 layout: post
 title: Software management
 date: 2019-10-08 
-tag: software
+tag: Software
 ---
 
 Software managment is not easy and always needs some attention. There are different ways to manage software. Here I mainly talk about environment `Modules`.

@@ -2,7 +2,7 @@
 layout: post
 title: Software installation
 date: 2019-10-06 
-tag: software
+tag: Software
 ---
 
 Software installation is always the tough thing that impedes the progress of bioinformatics analysis. During my PhD studies, it almost occupied 1/5 of my time to make the software run properly on different servers. In this section, I mainly detail in how to install bioinformatics tools.
