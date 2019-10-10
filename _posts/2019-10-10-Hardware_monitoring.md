@@ -16,7 +16,7 @@ You may use the command below to check
 $ df -h 
 ```
 
-Here is one example of the disks on one of our server
+Here is one example of the disks on one of our servers
 
 
 ```python
