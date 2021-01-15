@@ -6,31 +6,43 @@ title: About me
 I'm Yuxuan Yuan and my English name is Andy
 
 <p>
-
 I am a computational biologist/bioinformatican working on genomics and bioinformatics
- 
 <p>
-
-My research mainly focuses on genome assembly, genetic variations and pop-gen
+My research mainly focuses on genome assembly, genetic variation and pop-gen studies
 
 <p>
-
 The species that I have been working on are canola, wheat and soybean
 
-
 <h3> Education Background </h3>
+
+<p>
+2015 - 2019, PhD, the University of Western Australia, Perth, Australia
+
+<p>
+2012 - 2014, Master, the University of Queensland, Brisbane, Australia
+
+<p>
+2007 - 2011, Bachelor, Zhejiang Chinese Medical University, Hangzhou, China
+
+<p>
+
+<h3> Recent Posts </h3>
+
+<p>
+2021 - present, Assistant Researcher (by courtesy), the Chinese University of Hong Kong, Shenzhen, China
 
 <p>
 2019 - present, Postdoctoral fellow, the Chinese University of Hong Kong, Hong Kong, China
 
 <p>
-2015 - 2019,    PhD, the University of Western Australia, Perth, Australia
+
+<h3> Peer-review services </h3>
 
 <p>
-2012 - 2014,    Master, the University of Queensland, Brisbane, Australia
+Topic editor for <i> Sustainability</i>
 
 <p>
-2007 - 2011,    Bachelor, Zhejiang Chinese Medical University, Hangzhou, China
+<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, Agronomy, Diversity </i> and <i>Cytometry Part A</i>
 
 <p>
 
@@ -129,11 +141,11 @@ The species that I have been working on are canola, wheat and soybean
 
 <p>
 
-My publication record is at <a target="_blank" href='https://scholar.google.com.au/citations?user=2oLXfwoAAAAJ&hl=en'>GoogleScholar</a> 
+My publication record is on <a target="_blank" href='https://scholar.google.com.au/citations?user=2oLXfwoAAAAJ&hl=en'>GoogleScholar</a> 
 
 <p> 
 
-My CV is at <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/CV_AY.pdf?dl=0'>here</a>
+My CV is <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/CV_AY.pdf?dl=0'>here</a>
 
 <p>
 
