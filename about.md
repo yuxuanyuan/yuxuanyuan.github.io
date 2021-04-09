@@ -42,7 +42,7 @@ The species that I have been working on are canola, wheat and soybean
 Topic editor for <i> Sustainability</i>
 
 <p>
-<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, Agronomy, Diversity </i> and <i>Cytometry Part A</i>
+<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, International Journal of Molecular Sciences, Agronomy, Diversity </i> and <i>Cytometry Part A</i>
 
 <p>
 
@@ -149,7 +149,7 @@ My CV is <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/CV_A
 
 <p>
 
-My email: yuxuan.yuan@outlook.com
+My email: yuxuan.yuan@outlook.com; yuxuan.yuan@cuhk.edu.hk
 
 <p>
 
