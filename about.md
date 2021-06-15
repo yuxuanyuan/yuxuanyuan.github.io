@@ -50,6 +50,14 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
+* Bayer PE, Valliyodan B, Hu H, Marsh J, <i>Yuan Y</i> Vuong T, Patil G, Song Q, Batley J, Varshney R, Lam HM, Edwards D and Nguyen H (2021) Sequencing the USDA core soybean collection reveals gene loss during domestication and breeding, doi: 10.1002/tpg2.20109, the Plant Genome [IF: 3.847; 5-Year IF:4.169; JCR Plant Sciences: 29/234 (Q1)]
+
+<p>
+
+* <i>Yuan Y</i>, Bayer PE, Batley J and Edwards D (2021) Current status of structural variation studies in plants. Plant Biotechnology Journal. doi:10.1111/pbi.13646 [<b>IF: 8.154</b>; 5-Year IF: 7.658; JCR Plant Sciences: 9/234 (Q1)]
+
+<p>
+
 * <i>Yuan Y</i>, Chung CKL and Chan TF (2020), Advances in optical mapping for genomic research. Computational and Structural Biotechnology Journal, doi: 10.1016/j.csbj.2020.07.018 [<b>IF: 6.018</b>; JCR BIOCHEMISTRY & MOLECULAR BIOLOGY: 43/297 (Q1)]
 
 <p>
