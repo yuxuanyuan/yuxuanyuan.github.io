@@ -42,7 +42,7 @@ The species that I have been working on are canola, wheat and soybean
 Topic editor for <i> Sustainability</i>
 
 <p>
-<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, International Journal of Molecular Sciences, Agronomy, Diversity, Plants </i> and <i>Cytometry Part A</i>
+<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, International Journal of Molecular Sciences, BMC Plant Biology, Agronomy, Diversity, Plants </i> and <i>Cytometry Part A</i>
 
 <p>
 
@@ -50,15 +50,15 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* Bayer PE, Valliyodan B, Hu H, Marsh J, <i>Yuan Y</i> Vuong T, Patil G, Song Q, Batley J, Varshney R, Lam HM, Edwards D and Nguyen H (2021) Sequencing the USDA core soybean collection reveals gene loss during domestication and breeding, doi: 10.1002/tpg2.20109, the Plant Genome [IF: 3.847; 5-Year IF:4.169; JCR Plant Sciences: 29/234 (Q1)]
+* Bayer PE, Valliyodan B, Hu H, Marsh J, <i>Yuan Y</i> Vuong T, Patil G, Song Q, Batley J, Varshney R, Lam HM, Edwards D and Nguyen H (2021) Sequencing the USDA core soybean collection reveals gene loss during domestication and breeding, doi: 10.1002/tpg2.20109, the Plant Genome [IF: 4.089; 5-Year IF:4.972; JCR Plant Sciences: 42/235 (Q1)]
 
 <p>
 
-* <i>Yuan Y</i>, Bayer PE, Batley J and Edwards D (2021) Current status of structural variation studies in plants. Plant Biotechnology Journal. doi:10.1111/pbi.13646 [<b>IF: 8.154</b>; 5-Year IF: 7.658; JCR Plant Sciences: 9/234 (Q1)]
+* <i>Yuan Y</i>, Bayer PE, Batley J and Edwards D (2021) Current status of structural variation studies in plants. Plant Biotechnology Journal. doi:10.1111/pbi.13646 [<b>IF: 9.803</b>; 5-Year IF: 9.555; JCR Plant Sciences: 8/235 (Q1)]
 
 <p>
 
-* <i>Yuan Y</i>, Chung CKL and Chan TF (2020), Advances in optical mapping for genomic research. Computational and Structural Biotechnology Journal, doi: 10.1016/j.csbj.2020.07.018 [<b>IF: 6.018</b>; JCR BIOCHEMISTRY & MOLECULAR BIOLOGY: 43/297 (Q1)]
+* <i>Yuan Y</i>, Chung CKL and Chan TF (2020), Advances in optical mapping for genomic research. Computational and Structural Biotechnology Journal, doi: 10.1016/j.csbj.2020.07.018 [<b>IF: 7.271</b>; 5-Year IF: 7.409; JCR BIOCHEMISTRY & MOLECULAR BIOLOGY: 45/298 (Q1)]
 
 <p>
 
@@ -70,7 +70,7 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* Valliyodan B, Cannon S, Bayer B, Shu S, Ren L, Jenkins J, Chung C, Chan T, Daum C, Plott C, Hastie A, Baruch K, Barry W, Huang W, Patil G, Varshney R, Hu H, Batley J, <i>Yuan Y</i>, Song Q, Goodstein D, Stacey G, Lam H, Jackson S, Schmutz J, Grimwood J, Edwards D, Nguyen H (2019) Construction and comparison of three new reference-quality genome assemblies for soybean, the Plant Journal, doi: 10.1111/tpj.14500 [<b>IF: 6.141</b>; 5-Year IF: 6.629; JCR Plant Sciences: 13/234 (Q1)]
+* Valliyodan B, Cannon S, Bayer B, Shu S, Ren L, Jenkins J, Chung C, Chan T, Daum C, Plott C, Hastie A, Baruch K, Barry W, Huang W, Patil G, Varshney R, Hu H, Batley J, <i>Yuan Y</i>, Song Q, Goodstein D, Stacey G, Lam H, Jackson S, Schmutz J, Grimwood J, Edwards D, Nguyen H (2019) Construction and comparison of three new reference-quality genome assemblies for soybean, the Plant Journal, doi: 10.1111/tpj.14500 [<b>IF: 6.417</b>; 5-Year IF: 7.627; JCR Plant Sciences: 15/235 (Q1)]
 
 <p>
 
@@ -78,11 +78,11 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* <i>Yuan Y</i>, Bayer P, Vrana, J, Dolezel J, Edwards D, Erskine W, Kaur P. (2018) Large-scale structural variation detection in subterranean clover subtypes using optical mapping, Frontiers in Plant Science, 9, 971, doi: 10.3389/fpls.2018.00971 [<b>IF: 4.402 </b>; 5-Year IF: 5.207; JCR Plant Sciences: 19/223 (Q1)]
+* <i>Yuan Y</i>, Bayer P, Vrana, J, Dolezel J, Edwards D, Erskine W, Kaur P. (2018) Large-scale structural variation detection in subterranean clover subtypes using optical mapping, Frontiers in Plant Science, 9, 971, doi: 10.3389/fpls.2018.00971 [<b>IF: 5.753 </b>; 5-Year IF: 6.612; JCR Plant Sciences: 17/235 (Q1)]
 
 <p>
 
-* <i>Yuan Y</i>, Lee H, Hu H, Scheben A, Edwards D. (2018) Single-cell genomic analysis in plants. Genes. doi: 10.3390/genes9010050 [<b>IF: 3.759 </b>; 5-Year IF: 3.822; JCR Genetics & Heredity: 53/177 (Q2)]
+* <i>Yuan Y</i>, Lee H, Hu H, Scheben A, Edwards D. (2018) Single-cell genomic analysis in plants. Genes. doi: 10.3390/genes9010050 [<b>IF: 4.096 </b>; 5-Year IF: 4.339; JCR Genetics & Heredity: 65/175 (Q2)]
 
 <p>
 
@@ -90,23 +90,23 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* <i>Yuan Y</i>, Bayer P, Scheben A, Chan CKK, Edwards D. (2017) BioNanoAnalyst: A visualisation tool to assess genome assembly quality using BioNano data. BMC Bioinformatics. doi: 11.1186/s12859-017-1735-4 [<b>IF: 3.242</b>; 5-Year IF: 3.213; JCR Mathematical & Computational Biology: 9/59 (Q1)].
+* <i>Yuan Y</i>, Bayer P, Scheben A, Chan CKK, Edwards D. (2017) BioNanoAnalyst: A visualisation tool to assess genome assembly quality using BioNano data. BMC Bioinformatics. doi: 11.1186/s12859-017-1735-4 [<b>IF: 3.169</b>; 5-Year IF: 3.629; JCR Mathematical & Computational Biology: 16/58 (Q2)].
 
 <p>
 
-* <i>Yuan Y</i>, Bayer P, Lee H, Edwards D. (2017) runBNG: A software package for BioNano genomic analysis on the command line. Bioinformatics. doi: 10.1093/bioinformatics/btx366 [<b>IF: 5.61</b>; 5-Year IF: 9.853; JCR Mathematical & Computational Biology: 3/59 (Q1)]
+* <i>Yuan Y</i>, Bayer P, Lee H, Edwards D. (2017) runBNG: A software package for BioNano genomic analysis on the command line. Bioinformatics. doi: 10.1093/bioinformatics/btx366 [<b>IF: 6.937</b>; 5-Year IF: 8.47; JCR Mathematical & Computational Biology: 3/58 (Q1)]
 
 <p>
 
-* Bayer P, Hurgobin B, Golicz A, Chan K, <i>Yuan Y</i>, Lee H, Renton M, Meng J, Li R, Long Y, Zou J, Bancroft I, Chalhoub B, King G, Batley J, Edwards D. (2017) Assembly and comparison of two closely related Brassica napus genomes. Plant Biotechnology Journal. doi:10.1111/pbi.12742 [<b>IF: 8.154</b>; 5-Year IF: 7.658; JCR Plant Sciences: 9/234 (Q1)]
+* Bayer P, Hurgobin B, Golicz A, Chan K, <i>Yuan Y</i>, Lee H, Renton M, Meng J, Li R, Long Y, Zou J, Bancroft I, Chalhoub B, King G, Batley J, Edwards D. (2017) Assembly and comparison of two closely related Brassica napus genomes. Plant Biotechnology Journal. doi:10.1111/pbi.12742 [<b>IF: 9.803</b>; 5-Year IF: 9.555; JCR Plant Sciences: 8/235 (Q1)]
 
 <p>
 
-* <i>Yuan Y</i>, Bayer P, Batley J, Edwards D. (2017) Improvements in genomic technologies: application to crop genomics. Trends in Biotechnology. doi: 10.1016/j.tibtech.2017.02.009 [<b>IF: 14.343</b>; 5-Year IF: 15.157; JCR Biotechnology &Applied Microbiology: 3/156 (Q1)]
+* <i>Yuan Y</i>, Bayer P, Batley J, Edwards D. (2017) Improvements in genomic technologies: application to crop genomics. Trends in Biotechnology. doi: 10.1016/j.tibtech.2017.02.009 [<b>IF: 19.536</b>; 5-Year IF: 19.599; JCR Biotechnology &Applied Microbiology: 3/159 (Q1)]
 
 <p>
 
-* Kaur P, Bayer P, Milec Z, Vrána J, <i>Yuan Y</i>, Appels R, Edwards D, Batley J, Nichols P, Erskine W, Doležel J. (2017) An advanced reference genome of Trifolium subterraneum L. reveals genes related to agronomic performance. Plant Biotechnology Journal. doi: 10.1111/pbi.12697 [<b>IF: 8.154</b>; 5-Year IF: 7.658; JCR Plant Sciences: 9/234 (Q1)]
+* Kaur P, Bayer P, Milec Z, Vrána J, <i>Yuan Y</i>, Appels R, Edwards D, Batley J, Nichols P, Erskine W, Doležel J. (2017) An advanced reference genome of Trifolium subterraneum L. reveals genes related to agronomic performance. Plant Biotechnology Journal. doi: 10.1111/pbi.12697 [<b>IF: 9.803</b>; 5-Year IF: 9.555; JCR Plant Sciences: 8/235 (Q1)]
 
 <p> 
 
