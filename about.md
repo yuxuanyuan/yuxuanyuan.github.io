@@ -157,6 +157,10 @@ My CV is <a target="_blank" href='https://www.dropbox.com/s/dr5syy4vb05wn7z/CV_A
 
 <p>
 
+ORCID: <a target="_blank" href='https://orcid.org/0000-0003-0741-4196'>0000-0003-0741-4196</a>
+
+<p>
+
 My email: yuxuan.yuan@outlook.com; yuxuan.yuan@cuhk.edu.hk
 
 <p>
