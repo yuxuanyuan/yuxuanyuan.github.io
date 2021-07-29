@@ -50,7 +50,7 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* Bayer P, Scheben A; Golicz A, <i>Yuan Y</i>, Faure S, Lee HT, Chawla H, Anderson R, Bancroft I, Raman H, Lim Y, Robbens S, Jiang L, Liu S, Barker M, Schranz E, Wang X, King G, Pires JC, Chalhoub B, Snowdon R, Batley J and Edwards D (2021) Modelling of gene loss propensity in the pangenomes of three Brassica species suggests different mechanisms between polyploids and diploids. Plant Biotechnology Journal.[<b>IF: 9.803</b>; 5-Year IF: 9.555; JCR Plant Sciences: 8/235 (Q1)]
+* Bayer P, Scheben A; Golicz A, <i>Yuan Y</i>, Faure S, Lee HT, Chawla H, Anderson R, Bancroft I, Raman H, Lim Y, Robbens S, Jiang L, Liu S, Barker M, Schranz E, Wang X, King G, Pires JC, Chalhoub B, Snowdon R, Batley J and Edwards D (2021) Modelling of gene loss propensity in the pangenomes of three Brassica species suggests different mechanisms between polyploids and diploids. Plant Biotechnology Journal. doi: 10.1111/pbi.13674 [<b>IF: 9.803</b>; 5-Year IF: 9.555; JCR Plant Sciences: 8/235 (Q1)]
 
 <p>
 
