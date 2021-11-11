@@ -42,11 +42,15 @@ The species that I have been working on are canola, wheat and soybean
 Topic editor for <i> Sustainability</i>
 
 <p>
-<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, GigaScience, International Journal of Molecular Sciences, BMC Plant Biology, Agronomy, Diversity, Plants </i> and <i>Cytometry Part A</i>
+<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology, BMC Biology, GigaScience, International Journal of Molecular Sciences, BMC Plant Biology, Agronomy, Diversity, Plants </i> and <i>Cytometry Part A</i>
 
 <p>
 
 <h3> Publications </h3>  
+
+<p>
+
+* <i>Yuan Y</i>, Scheben A, Edwards D and Chan TF (2021) Towards haplotype studies in polyploid plants. Molecular Plant. [<b>IF: 13.164</b>; 5-Year IF: 16.357; JCR Plant Sciences: 4/235 (Q1)]
 
 <p>
 
