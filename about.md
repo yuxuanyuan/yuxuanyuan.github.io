@@ -50,7 +50,7 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
-* <i>Yuan Y</i>, Scheben A, Edwards D and Chan TF (2021) Towards haplotype studies in polyploid plants. Molecular Plant. [<b>IF: 13.164</b>; 5-Year IF: 16.357; JCR Plant Sciences: 4/235 (Q1)]
+* <i>Yuan Y</i>, Scheben A, Edwards D and Chan TF (2021) Towards haplotype studies in polyploid plants. Molecular Plant. doi: 10.1016/j.molp.2021.11.004 [<b>IF: 13.164</b>; 5-Year IF: 16.357; JCR Plant Sciences: 4/235 (Q1)]
 
 <p>
 
