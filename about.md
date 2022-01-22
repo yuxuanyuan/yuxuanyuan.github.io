@@ -50,6 +50,10 @@ Topic editor for <i> Sustainability</i>
 
 <p>
 
+* <i> Yuan Y</i> (2022) Applications of Optical Mapping for Plant Genome Assembly and Structural Variation Detection. In: Edwards D. (eds) Plant Bioinformatics. Methods in Molecular Biology, vol 2443. Humana, New York, NY. doi:10.1007/978-1-0716-2067-0_13
+
+<p>
+
 * <i>Yuan Y</i>, Scheben A, Edwards D and Chan TF (2021) Towards haplotype studies in polyploid plants. Molecular Plant. doi: 10.1016/j.molp.2021.11.004 [<b>IF: 13.164</b>; 5-Year IF: 16.357; JCR Plant Sciences: 4/235 (Q1)]
 
 <p>
