@@ -42,7 +42,7 @@ The species that I have been working on are canola, wheat and soybean
 Topic editor for <i> Sustainability</i>
 
 <p>
-<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology (IF: 9.396), BMC Biology (IF: 7.364), NAR Genomics and Bioinformatics, GigaScience (IF: 7.658), International Journal of Molecular Sciences (IF: 6.208), Bio-protocol, BMC Plant Biology (IF: 5.26), Theoretical and Applied Genetics (IF: 5.547), BMC Genomics (IF: 4.547), Agronomy (IF: 3.949), Diversity (IF: 3.029), Plants (IF: 4.658) </i> and <i>Cytometry Part A (IF: 4.714)</i>
+<i>Ad-hoc</i> reviewer for <i> Current Opinion in Plant Biology (IF: 9.396), BMC Biology (IF: 7.364), NAR Genomics and Bioinformatics, GigaScience (IF: 7.658), International Journal of Molecular Sciences (IF: 6.208), Bio-protocol, BMC Plant Biology (IF: 5.26), Theoretical and Applied Genetics (IF: 5.547), BMC Genomics (IF: 4.547), The Plant Genome (IF: 4.219), Agronomy (IF: 3.949), Diversity (IF: 3.029), Plants (IF: 4.658) </i> and <i>Cytometry Part A (IF: 4.714)</i>
 
 <p>
 
